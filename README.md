@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-- 🔭 Currently working on my study project at HTML-academy.
-- 🌱 Learning JavaScript and frameworks.
+- 🔭 I'm currently working on my study project at HTML-academy.
+- 🌱 I'm learning JavaScript and frameworks.
 - 👯 I’m looking to collaborate on some volunteers IT-projects.
 - 📫 How to reach me: 
 
