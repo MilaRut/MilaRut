@@ -1,16 +1,22 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="300"/>
+</div>
+
 ### Hi there 👋
 
-<!--
-**MilaRut/MilaRut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on my study project at HTML-academy.
+- 🌱 Learning JavaScript and frameworks.
+- 👯 I’m looking to collaborate on some volunteers IT-projects.
+- 📫 How to reach me: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.linkedin.com/mwlite/in/mila-rut-5805b324a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:mila.balashova2312@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/degusyanz">
+    <img src="https://img.shields.io/badge/telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
