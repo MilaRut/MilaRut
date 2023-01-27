@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-- 🔭 I'm currently working on my study project at HTML-academy.
-- 🌱 I'm learning JavaScript and frameworks.
-- 👯 I’m looking to collaborate on some volunteers IT-projects.
+- 🔭 I'm Mila, junior frontend-developer.
+- 🌱 I'm in love with JavaScript and interesting challengs.
+- 👯 I’m looking to collaborate on commercial and volunteers IT-projects.
 - 📫 How to reach me: 
 
 <div id="badges">
