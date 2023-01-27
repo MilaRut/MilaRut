@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="300"/>
-</div>
-
 ### Hi there 👋
 
 - 🔭 I'm Mila, junior frontend-developer.
