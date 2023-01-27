@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm Mila, junior frontend-developer.
-- 🌱 I'm in love with JavaScript and interesting challengs.
+- 🌱 I'm in love with JavaScript and challenging tasks.
 - 👯 I’m looking to collaborate on commercial and volunteers IT-projects.
 - 📫 How to reach me: 
 
