@@ -6,13 +6,13 @@
 - 📫 How to reach me: 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/mwlite/in/mila-rut-5805b324a">
+  <p><a href="https://www.linkedin.com/mwlite/in/mila-rut-5805b324a" style="color: #ffffff !important;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:mila.balashova2312@gmail.com">
+  </a></p>
+  <p><a href="mailto:mila.balashova2312@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-  <a href="https://t.me/degusyanz">
+  </a></p>
+  <p><a href="https://t.me/degusyanz">
     <img src="https://img.shields.io/badge/telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
+  </a></p>
 </div>
