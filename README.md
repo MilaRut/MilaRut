@@ -16,8 +16,3 @@
     <img src="https://img.shields.io/badge/telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-<style>
-  a {
-    text-decoration: none !important;
-    }
-</style>
